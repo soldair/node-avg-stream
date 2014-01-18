@@ -1,0 +1,19 @@
+{
+  "name": "avg-stream",
+  "description": "average the last n samples and emit the result as a stream ",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/soldair/node-avg-stream.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Ryan Day",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
