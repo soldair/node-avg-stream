@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/soldair/node-avg-stream.png)](http://travis-ci.org/soldair/node-avg-stream)
+
 avg-stream
 ==========
 
